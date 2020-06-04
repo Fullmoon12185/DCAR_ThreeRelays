@@ -379,6 +379,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XNOVVIII
 
 [Document21]
+DocumentPath=Relay_top.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QCGKYQFM
+
+[Document22]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYCOBQTV
 
-[Document22]
+[Document23]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,14 +429,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTNYIIEG
 
-[Document23]
+[Document24]
 DocumentPath=RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -429,14 +446,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXCJEUDG
 
-[Document24]
+[Document25]
 DocumentPath=Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -446,14 +463,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSUXFPRH
 
-[Document25]
+[Document26]
 DocumentPath=Relays.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
