@@ -39,6 +39,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Libs\SON65P300X315X90-9N\Imported SON65P300X315X90-9N.lia\CSD25404Q3.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MWITRVWG
+
+[Document2]
+DocumentPath=Libs\SON65P300X315X90-9N\Imported SON65P300X315X90-9N.lia\SON65P300X315X90-9N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FYAWUWCU
+
+[Document3]
 DocumentPath=Libs\TRANS_CSD19502Q5BT\Imported TRANS_CSD19502Q5BT.lia\TRANS_CSD19502Q5BT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -55,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUCFVKRL
 
-[Document2]
+[Document4]
 DocumentPath=Relay_top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCGKYQFM
 
-[Document3]
+[Document5]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYCOBQTV
 
-[Document4]
+[Document6]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTNYIIEG
 
-[Document5]
+[Document7]
 DocumentPath=Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSUXFPRH
 
-[Document6]
+[Document8]
 DocumentPath=RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXCJEUDG
 
-[Document7]
+[Document9]
 DocumentPath=Relays.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWXLLAJO
 
-[Document8]
+[Document10]
 DocumentPath=Libs\D2PAK\Imported D2PAK.lia\7809.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFSRKCWE
 
-[Document9]
+[Document11]
 DocumentPath=FUSE_DCAR_HOLDER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYWVUFYG
 
-[Document10]
+[Document12]
 DocumentPath=outputs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
